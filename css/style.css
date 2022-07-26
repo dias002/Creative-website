@@ -323,6 +323,7 @@ header{
     }
     .second_card img{
         width: 350px;
+        height: 50%;
     }
     .cards_block_background {
         width: 100%;
