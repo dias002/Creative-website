@@ -328,4 +328,6 @@ header{
     display: grid;
     grid-template-rows: repeat(2, 60%);
     }
+    footer{
+        height:40vh;
 }
