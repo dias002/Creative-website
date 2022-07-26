@@ -322,7 +322,6 @@ header{
         width: 40%;
     }
     .second_card img{
-        width: 350px;
         height: 50%;
     }
     .cards_block_background {
@@ -331,7 +330,7 @@ header{
     }
     .footer_box {
     display: grid;
-    grid-template-rows: repeat(2, 50%);
+    grid-template-rows: repeat(2, 150%);
     }
     footer{
         height:70vh;
