@@ -227,6 +227,9 @@ header{
     .header_main {
         justify-content: space-around;
     }
+    .menu_navbar {
+    width: 90%;
+    }
     .header_main_info h1 {
         font-size: 30px;
         line-height: 30px;
