@@ -236,7 +236,7 @@ header{
         grid-template-columns: repeat(2, 50%);
     }
     .cards_block_background {
-        width: 500px;
+        width: 550px;
         height: 70vh;
     }
     .main_card {
