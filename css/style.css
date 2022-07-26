@@ -300,6 +300,7 @@ header{
         height: 250px;
         grid-template-rows: repeat(3, 30%);
         padding: 0px 20px 0px 27px;
+        margin-left: 10%;
     }
     .main_card p{
         font-size: 13px;
@@ -326,9 +327,9 @@ header{
     }
     .footer_box {
     display: grid;
-    grid-template-rows: repeat(2, 60%);
+    grid-template-rows: repeat(2, 50%);
     }
     footer{
-        height:40vh;
+        height:70vh;
    }
 }
