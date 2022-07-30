@@ -431,3 +431,27 @@ header{
         line-height: 30px;
     }
 }
+@media(max-width:245px){
+    .cards_block_background {
+        width: 113%;
+        height: 160vh;
+    }
+    .main{
+        width: 120%;
+    }
+    .header_main_info {
+        grid-template-rows: repeat(2, 40%);
+        width: 113%;
+    }
+    .second_card {
+        width: 113%;
+    }
+    .footer_box{
+        width: 113%;
+    }
+    .social_media {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
