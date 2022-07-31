@@ -385,7 +385,7 @@ header{
     }
 
 }
-@media(max-width:320px){
+@media(max-width:425px){
     .second_card img {
         width: 100%;
         height: auto;
